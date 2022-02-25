@@ -9,7 +9,6 @@ fn main() {
     shadowing_vs_let();
     some_types();
     array_out_bond_example();
-    7
 }
 
 fn shadowing() {
