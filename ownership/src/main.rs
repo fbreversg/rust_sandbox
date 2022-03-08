@@ -1,3 +1,6 @@
+mod references;
+mod slices;
+
 fn main() {
     string_heap_stack();
     copy_reference();
